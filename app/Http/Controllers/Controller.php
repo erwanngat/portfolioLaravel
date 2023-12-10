@@ -13,4 +13,32 @@ class Controller extends BaseController
     public function home(){
         return view('home');
     }
+
+    public function cv(){
+        return view('cv');
+    }
+
+    public function bts(){
+        return view('bts');
+    }
+
+    public function parcourspro(){
+        return view('parcoursPro.parcourspro');
+    }
+
+    public function projets(){
+        return view('parcourspro.projets');
+    }
+
+    public function competences(){
+        return view('parcourspro.competences');
+    }
+
+    public function veille(){
+        return view('veille');
+    }
+
+    public function patrimoine(){
+        return view('patrimoine');
+    }
 }

@@ -19,3 +19,13 @@ Route::get('/', function () {
 });
 
 Route::get('/home', [Controller::class, 'home']);
+Route::get('/cv', [Controller::class,'cv']);
+Route::get('/bts', [Controller::class,'bts']);
+
+Route::get('/parcourspro', [Controller::class,'parcourspro']);
+Route::get('/projets', [Controller::class,'projets']);
+Route::get('competences', [Controller::class,'competences']);
+
+Route::get('veille', [Controller::class,'veille']);
+Route::get('patrimoine', [Controller::class,'patrimoine']);
+

@@ -1,6 +1,5 @@
 <x-layout>
     <x-slot name='header'>
-        {{ "Bienvenue sur mon portfolio" }}
+        {{ 'Parcours professionnel' }}
     </x-slot>
-
 </x-layout>
