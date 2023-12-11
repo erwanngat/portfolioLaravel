@@ -2,8 +2,7 @@
     <x-slot name='header'>
         {{ "Qu'est ce que le BTS SIO ?" }}
     </x-slot>
-    <div class='bg-gay-200'>
-        <div class='bg-gray-200'>
+        <div class='bg-gray-300 pb-16'>
             <div class='flex flex-row py-8 justify-center'>
                 <div class='w-1/3'>
                     <p class='text-xl text-justify pt-8'>En deux ans, les étudiants du BTS Service Informatique aux
@@ -33,10 +32,10 @@
                 </div>
             </div>
 
-            <div class='pl-16 pb-8'>
+            <div class='space-x-64'>
                 <h1 class='text-4xl'>Les matières enseignées et épreuves :</h1>
 
-                <div class="flex">
+                <div class="flex justify-center">
                     <div class="w-1/2">
                         <ul class="text-3xl pt-4">
                             <p class="font-bold py-4">Matières enseignées :</p>
@@ -73,6 +72,5 @@
                 </div>
             </div>
         </div>
-    </div>
 
 </x-layout>
