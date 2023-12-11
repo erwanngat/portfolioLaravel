@@ -2,7 +2,6 @@
     <x-slot name='header'>
         {{ "Qu'est ce que le BTS SIO ?" }}
     </x-slot>
-        <div class='bg-gray-300 pb-16'>
             <div class='flex flex-row py-8 justify-center'>
                 <div class='w-1/3'>
                     <p class='text-xl text-justify pt-8'>En deux ans, les étudiants du BTS Service Informatique aux
@@ -71,6 +70,5 @@
                     </div>
                 </div>
             </div>
-        </div>
 
 </x-layout>

@@ -5,7 +5,7 @@
         }
     </style>
 
-    <nav class="bg-gray-800 text-white w-full fixed top-0 z-50 py-5">
+    <nav class="bg-gray-800 text-white w-full fixed top-0 z-50 py-1">
         <div class="flex justify-between items-center px-8">
             <div class="flex items-center">
                 <img class='w-16 rounded-xl' src='/images/ppBird.jpg'>

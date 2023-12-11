@@ -19,7 +19,9 @@
             </div>
         </header>
     @endif
-    {{ $slot }}
+    <div class='bg-gray-300'>
+        {{ $slot }}
+    </div>
 </body>
 <footer>
     <x-footer />
