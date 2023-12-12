@@ -11,7 +11,7 @@
     <x-navBar />
 </head>
 
-<body class='pt-16'>
+<body class='pt-16' >
     @if (isset($header))
         <header class="bg-white dark:bg-gray-800 shadow">
             <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-white text-5xl py-12">
