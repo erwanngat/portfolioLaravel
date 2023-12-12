@@ -38,11 +38,16 @@
             <img src='images/roleVeille.png' class='flex rounded-xl'>
         </div>
         <div class='w-1/3 text-justify text-lg'>
-            <li class='py-2'><span class='underline text-xl'>L'anticipation</span> : Prévoir les changements et les tendances futures pour s'y adapter efficacement.</li>
-            <li class='py-2'><span class='underline text-xl'>L'innovation</span> : Identifier de nouvelles opportunités et technologies pour stimuler l'innovation.</li>
-            <li class='py-2'><span class='underline text-xl'>La compétitivité</span> : Maintenir une position concurrentielle en restant à jour sur les avancées de l'industrie.</li>
-            <li class='py-2'><span class='underline text-xl'>La réduction des risques</span> : Détecter les menaces potentielles et prendre des mesures préventives.</li>
-            <li class='py-2'><span class='underline text-xl'>L'apprentissage continu</span> : Favoriser le développement des compétences et des connaissances pour une amélioration constante.</li>
+            <li class='py-2'><span class='underline text-xl'>L'anticipation</span> : Prévoir les changements et les
+                tendances futures pour s'y adapter efficacement.</li>
+            <li class='py-2'><span class='underline text-xl'>L'innovation</span> : Identifier de nouvelles
+                opportunités et technologies pour stimuler l'innovation.</li>
+            <li class='py-2'><span class='underline text-xl'>La compétitivité</span> : Maintenir une position
+                concurrentielle en restant à jour sur les avancées de l'industrie.</li>
+            <li class='py-2'><span class='underline text-xl'>La réduction des risques</span> : Détecter les menaces
+                potentielles et prendre des mesures préventives.</li>
+            <li class='py-2'><span class='underline text-xl'>L'apprentissage continu</span> : Favoriser le
+                développement des compétences et des connaissances pour une amélioration constante.</li>
         </div>
     </div>
 </x-layout>

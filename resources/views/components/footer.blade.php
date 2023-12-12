@@ -14,5 +14,4 @@
             <i class="ri-linkedin-line text-5xl"></i>
         </a>
     </div>
-
 </div>

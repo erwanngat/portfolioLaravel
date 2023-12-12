@@ -1,6 +1,5 @@
 <x-layout>
     <x-slot name='header'>
-        {{ 'Contact' }}
+        {{ 'Site gestion de ressources' }}
     </x-slot>
 </x-layout>
-

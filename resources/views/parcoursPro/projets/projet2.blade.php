@@ -1,6 +1,5 @@
 <x-layout>
     <x-slot name='header'>
-        {{ 'Contact' }}
+        {{ 'Site du jeu de la roulette' }}
     </x-slot>
 </x-layout>
-

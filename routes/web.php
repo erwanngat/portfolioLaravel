@@ -29,3 +29,9 @@ Route::get('competences', [Controller::class,'competences']);
 Route::get('veille', [Controller::class,'veille']);
 Route::get('patrimoine', [Controller::class,'patrimoine']);
 
+Route::get('/contact', [Controller::class,'contact']);
+
+Route::get('/projet1', [Controller::class,'projet1']);
+Route::get('/projet2', [Controller::class,'projet2']);
+Route::get('/projet3', [Controller::class,'projet3']);
+

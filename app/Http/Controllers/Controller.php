@@ -41,4 +41,20 @@ class Controller extends BaseController
     public function patrimoine(){
         return view('patrimoine');
     }
+
+    public function contact(){
+        return view('contact');
+    }
+
+    public function projet1(){
+        return view('parcoursPro.projets.projet1');
+    }
+
+    public function projet2(){
+        return view('parcoursPro.projets.projet2');
+    }
+
+    public function projet3(){
+        return view('parcoursPro.projets.projet3');
+    }
 }

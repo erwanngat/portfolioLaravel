@@ -31,6 +31,7 @@
                 </div>
             </div>
 
+            <div class='bg-gray-900 py-2'></div>
             <div class='space-x-64'>
                 <h1 class='text-4xl'>Les matières enseignées et épreuves :</h1>
 

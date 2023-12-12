@@ -1,6 +1,5 @@
 <x-layout>
     <x-slot name='header'>
-        {{ 'Contact' }}
+        {{ 'Site de vente de chaussure' }}
     </x-slot>
 </x-layout>
-
